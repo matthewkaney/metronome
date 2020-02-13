@@ -1,0 +1,22 @@
+{
+  "name": "@mindofmatthew/metronome",
+  "version": "0.1.0",
+  "description": "Node-js metronome server for syncing web-audio tools",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindofmatthew/metronome.git"
+  },
+  "author": "Matthew Kaney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindofmatthew/metronome/issues"
+  },
+  "homepage": "https://github.com/mindofmatthew/metronome#readme",
+  "dependencies": {
+    "ws": "^7.2.1"
+  }
+}
